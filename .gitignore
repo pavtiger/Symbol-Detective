@@ -132,3 +132,4 @@ dmypy.json
 # Custom
 .idea/
 plates/
+curves/*
